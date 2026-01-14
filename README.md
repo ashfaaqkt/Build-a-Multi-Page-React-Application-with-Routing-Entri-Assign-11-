@@ -8,7 +8,6 @@ Purpose: Educational project to practice React Router and multi-page layout.
 - Home, About, Users list, and User Detail pages using React Router.
 - Persistent navigation bar with active link styling.
 - Mock user data with parameterized routes for user details.
-- Blue gradient UI with simple hover effects.
 
 ## Folder structure
 ```
